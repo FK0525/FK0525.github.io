@@ -1,0 +1,14 @@
+{
+  "name": "応用リンゴ｜応用情報技術者試験",
+  "short_name": "応用リンゴ",
+  "description": "1レッスン3〜5分で応用情報技術者試験の科目Aを学べる学習アプリ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#58a700",
+  "lang": "ja",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
