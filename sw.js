@@ -1,5 +1,5 @@
 // 学習コンテンツは静的ファイルなので、キャッシュ優先でオフラインでも学習できるようにする。
-const CACHE = "ouyo-ringo-v1";
+const CACHE = "ouyo-ringo-v2";
 const PRECACHE = ["/", "/review", "/stats", "/settings", "/manifest.webmanifest"];
 
 self.addEventListener("install", (event) => {
